@@ -1,0 +1,15 @@
+#results{
+    top:50px;
+    position: relative;
+    left:40px;
+}
+body{
+    background-color: black;
+}
+.searchcontainer{
+   background-color: #F8F8F8;
+    padding:20px;
+    top:30px;
+    position: relative;
+    border-radius:10px;
+}
